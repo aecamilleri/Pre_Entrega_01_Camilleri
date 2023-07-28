@@ -1,5 +1,4 @@
 function Main (){
-    let nombre = "Horacio"
     return (
         <main className="bg-white dark:bg-gray-900">
             <div className="py-8 px-4 mx-auto max-w-screen-md text-center lg:py-16 lg:px-12">
@@ -9,8 +8,6 @@ function Main (){
             </div>
         </main>
     )
-  }
-  
-  export default Main;
-  
+}
 
+export default Main;
